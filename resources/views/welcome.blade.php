@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Rodry
+                    Rodry-Sama Development 
                 </div>
 
                 <div class="links">

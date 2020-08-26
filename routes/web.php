@@ -35,3 +35,6 @@ Route::post('/updatedata','ControladorTest@updateDataBase');
 
 //entidad y relacion
 Route::get('/entidadrelacion','ControladorTest@entidadYrelacion');
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
