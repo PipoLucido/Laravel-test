@@ -32,3 +32,6 @@ Route::post('/insertdataintodatabase','ControladorTest@inDataInToDataBase');
 Route::post('/deletedataintodatabase','ControladorTest@delDataInToDataBase');
 
 Route::post('/updatedata','ControladorTest@updateDataBase');
+
+//entidad y relacion
+Route::get('/entidadrelacion','ControladorTest@entidadYrelacion');
